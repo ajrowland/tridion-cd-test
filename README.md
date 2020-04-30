@@ -42,4 +42,4 @@ CurrentCulture is xx-XX. Result: tcm:123-456789-64
 
 Note, no page Id returned for `tr-TR`.
 
-If this is a reall issue, possibly a `ToLower()` somewhere needs switching to `ToLowerInvariant()`?
+If this is a real issue, possibly a `ToLower()` somewhere needs switching to `ToLowerInvariant()`?
